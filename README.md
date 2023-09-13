@@ -12,7 +12,7 @@ The program will calculate and display the shared secret keys for both Alice and
 - SymPy library (for prime number checks)
 
 ## Usage
-Clone the repository and run the program:
+Clone the repository and run the program
 
 ## Contributors
 - William Castillo
